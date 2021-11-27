@@ -5,6 +5,6 @@ int main(){
 	scanf("%d", &i);
 	if(i==0){
 		printf("Hello");
-		printf("Cat!!");
+		printf("Dod and Cat!!");
 	}
 } 
